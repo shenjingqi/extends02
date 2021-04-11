@@ -13,7 +13,7 @@ public class Extends {
         ca.setBalance(-10000);
         ca.setCredit(0.99);
         System.out.println(ca.getActon()+"余额"+ca.getBalance()+"信誉度"+ca.getCredit());
-        act.getClass();
+
 
 
 
